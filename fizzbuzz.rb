@@ -3,4 +3,4 @@
 def fizzbuzz()
 fizz_3 = fizzbuzz  
 end  
-fizzbuzz(3)
+fizzbuzz()
